@@ -1,4 +1,4 @@
-# Novanox SaaS — Frontend
+# Novanox SaaS — Frontend (Ongoing Dev)
 
 Multi-tenant SaaS dashboard built with [Next.js 15](https://nextjs.org/).
 
